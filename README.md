@@ -1,6 +1,6 @@
 # OCTANET_JULY_TODO_LIST
 
-I am happy to share that I have completed my first task a landing page of website as intern at OctaNet .
+I am happy to share that I have completed my second task  at OctaNet .
 
 The second task , todo list application given by OctaNet.
 
